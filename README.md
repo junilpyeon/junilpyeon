@@ -1,4 +1,12 @@
-### Hi there 👋
+ 
+제 GITHUB 방문을 환영합니다! 
+
+과정을 중요시하며 발전하는 편준일입니다.
+
+웹백엔드 개발자로 일하고 있습니다.
+-HTML CSS JavaScript
+-Java Sql AWS 
+
 
 <!--
 **junilpyeon/junilpyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
